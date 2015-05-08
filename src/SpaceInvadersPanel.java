@@ -82,24 +82,7 @@ public class SpaceInvadersPanel extends JPanel implements ActionListener {
 		}
 
 	}
-
-	// private void setUpAlienTwo(Graphics g) {
-	//
-	// }
-	// private void setUpAlienThree(Graphics g) {
-	//
-	// }
-	// private void setUpAlienFour(Graphics g) {
-	//
-	// }
-	private void setUpDefender() {
-
-		// this.defShip.setLocation(DEF_START_X, DEF_START_Y);
-
-		// this.defShip.setLocation(DEF_START_X, DEF_START_Y);
-
-	}
-
+	
 	private void setUpKeyBindings() {
 		this.getInputMap().put(KeyStroke.getKeyStroke("SPACE"), "fire");
 		this.getInputMap().put(KeyStroke.getKeyStroke("RIGHT"), "right");

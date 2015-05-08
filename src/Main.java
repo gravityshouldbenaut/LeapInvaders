@@ -8,7 +8,7 @@ public class Main {
 		SpaceInvadersPanel panel = new SpaceInvadersPanel();
 		j = new JFrame();
 		j.setVisible(true);
-		j.setSize(1000, 800);
+		j.setSize(1440, 900);
 		j.add(panel);
 
 	}

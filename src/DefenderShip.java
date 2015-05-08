@@ -44,39 +44,4 @@ public class DefenderShip {
 		DEF_START_X -= x;
 
 	}
-
-	// public static final int LEFT = 0;
-	// public static final int RIGHT = 1;
-	// public static final int UP = 2;
-	// public static final int DOWN = 3;
-	// private double x;
-	// private double y;
-	// private double stepSize;
-	// public DefenderShip(double x ,double y ){
-	// this.x = x;
-	// this.y = y;
-	// stepSize = 0.05;
-	// }
-	// public void move(int direction) {
-	// switch (direction) {
-	// case LEFT:
-	// x -= stepSize;
-	// break;
-	// case RIGHT:
-	// x += stepSize;
-	// break;
-	// case UP:
-	// y += stepSize;
-	// break;
-	// case DOWN:
-	// y -= stepSize;
-	// break;
-	// }
-	// }
-	//
-	//
-	// public void draw(){
-	// StdDraw.picture(x, y, "IS_Spaceship.jpg");
-	// }
-	//
 }
