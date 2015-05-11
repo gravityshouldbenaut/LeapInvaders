@@ -82,7 +82,7 @@ public class SpaceInvadersPanel extends JPanel implements ActionListener {
 		}
 
 	}
-	
+
 	private void setUpKeyBindings() {
 		this.getInputMap().put(KeyStroke.getKeyStroke("SPACE"), "fire");
 		this.getInputMap().put(KeyStroke.getKeyStroke("RIGHT"), "right");
